@@ -1,0 +1,16 @@
+package lu42s.com.github.to_do_list.repository
+
+import kotlinx.coroutines.flow.Flow
+import lu42s.com.github.to_do_list.data.Tarefa
+import lu42s.com.github.to_do_list.data.TarefaDao
+
+class TarefaRepository(private val dao: TarefaDao) {
+
+    val tarefas: Flow<List<Tarefa>> = dao.listarTodas()
+
+    suspend fun inserir(tarefa: Tarefa) = dao.inserir(tarefa)
+
+    suspend fun atualizar(tarefa: Tarefa) = dao.atualizar(tarefa)
+
+    suspend fun deletar(tarefa: Tarefa) = dao.deletar(tarefa)
+}

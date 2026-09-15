@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "lu42s.com.github.to_do_list.app-mergeDebugResources-47:/values-v30/values-v30.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\labsfiap\\.gradle\\caches\\9.4.1\\transforms\\17d940fec6322d2689b2b54c1f24cf0f\\transformed\\material3\\res\\values-v30\\values-v30.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "72",
+                        "endOffsets": "123"
+                    }
+                }
+            ]
+        }
+    ]
+}
