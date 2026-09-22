@@ -1,8 +1,8 @@
-lu42s.com.github.to_do_list.app-pngs-0 D:\to-do-list-main\app\build\generated\res\pngs\debug
-lu42s.com.github.to_do_list.app-updated_navigation_xml-1 D:\to-do-list-main\app\build\generated\updated_navigation_xml\debug
-lu42s.com.github.to_do_list.app-packageDebugResources-2 D:\to-do-list-main\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
-lu42s.com.github.to_do_list.app-packageDebugResources-3 D:\to-do-list-main\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
-lu42s.com.github.to_do_list.app-debug-4 D:\to-do-list-main\app\build\intermediates\merged_res\debug\mergeDebugResources
-lu42s.com.github.to_do_list.app-debug-5 D:\to-do-list-main\app\src\debug\res
-lu42s.com.github.to_do_list.app-main-6 D:\to-do-list-main\app\src\main\res
+lu42s.com.github.to_do_list.app-pngs-0 D:\to-do-list\app\build\generated\res\pngs\debug
+lu42s.com.github.to_do_list.app-updated_navigation_xml-1 D:\to-do-list\app\build\generated\updated_navigation_xml\debug
+lu42s.com.github.to_do_list.app-packageDebugResources-2 D:\to-do-list\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+lu42s.com.github.to_do_list.app-packageDebugResources-3 D:\to-do-list\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+lu42s.com.github.to_do_list.app-debug-4 D:\to-do-list\app\build\intermediates\merged_res\debug\mergeDebugResources
+lu42s.com.github.to_do_list.app-debug-5 D:\to-do-list\app\src\debug\res
+lu42s.com.github.to_do_list.app-main-6 D:\to-do-list\app\src\main\res
 gradleHome-0 C:\Users\labsfiap\.gradle
